@@ -151,6 +151,9 @@
                         }
                       }
                     }
+                  },
+                  "xml" : {
+                    "name" : "TransactionRequest"
                   }
                 }
               }
